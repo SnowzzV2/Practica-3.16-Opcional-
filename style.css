@@ -1,0 +1,24 @@
+dl.negro{
+    font-weight: bold;
+}
+.test{
+    width: 200px;
+    height: auto;
+    left: 175px;
+    bottom: 180px;
+    position: relative;
+}
+.napolitana{
+    width: 200px;   
+    height: auto;
+    left: 230px;
+    bottom: 100px;
+    position: relative;
+}
+.solomillo{
+    width: 200px;
+    height: auto;
+    left: 200px;
+    bottom: 15                                                                                                                                                                                                                                                                                                                                                                                              0px;
+    position: relative;
+}
